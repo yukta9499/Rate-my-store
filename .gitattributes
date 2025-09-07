@@ -1,0 +1,1 @@
+rate-my-store.zip filter=lfs diff=lfs merge=lfs -text
